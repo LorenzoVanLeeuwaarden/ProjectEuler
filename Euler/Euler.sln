@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeHandler", "PrimeHandle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler Problem 4", "Euler Problem 4\Euler Problem 4.csproj", "{0814B1EC-00B6-43CF-9077-DDB865243152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler Problem 5", "Euler Problem 5\Euler Problem 5.csproj", "{D241DE31-73F6-4C3A-8472-78E10BD7A606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0814B1EC-00B6-43CF-9077-DDB865243152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0814B1EC-00B6-43CF-9077-DDB865243152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0814B1EC-00B6-43CF-9077-DDB865243152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D241DE31-73F6-4C3A-8472-78E10BD7A606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D241DE31-73F6-4C3A-8472-78E10BD7A606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D241DE31-73F6-4C3A-8472-78E10BD7A606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D241DE31-73F6-4C3A-8472-78E10BD7A606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
