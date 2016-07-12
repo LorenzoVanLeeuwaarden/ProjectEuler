@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxtFileReader", "TxtFileRea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler Problem 12", "Euler Problem 12\Euler Problem 12.csproj", "{BD685178-8B38-45E7-BE43-7927105F68E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler Problem 13", "Euler Problem 13\Euler Problem 13.csproj", "{6C6812E5-D2FC-4642-A707-C5CDC6D3F9E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{BD685178-8B38-45E7-BE43-7927105F68E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD685178-8B38-45E7-BE43-7927105F68E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD685178-8B38-45E7-BE43-7927105F68E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6812E5-D2FC-4642-A707-C5CDC6D3F9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6812E5-D2FC-4642-A707-C5CDC6D3F9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6812E5-D2FC-4642-A707-C5CDC6D3F9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6812E5-D2FC-4642-A707-C5CDC6D3F9E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
