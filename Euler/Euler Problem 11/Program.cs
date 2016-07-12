@@ -11,7 +11,7 @@ namespace Euler_Problem_11
     {
         static void Main(string[] args)
         {
-            List<List<int>> grid = TxtFileReader.TxtFileReader.ReadFile("grid.txt");
+            List<List<int>> grid = TxtFileReader.TxtFileReader.ReadTxtFile("grid.txt");
             List<int> values = new List<int>
             {
                 CheckVert(grid),
